@@ -1,0 +1,18 @@
+{
+  "countries": [
+    { "id": 1, "name": "Україна", "capital": "Київ", "continent": "Європа", "area_km2": 603550, "population": 41167336 },
+    { "id": 2, "name": "Nepal", "capital": "Катманду", "continent": "Азія", "area_km2": 147181, "population": 30896590 },
+    { "id": 3, "name": "Франція", "capital": "Париж", "continent": "Європа", "area_km2": 640679, "population": 68169125 },
+    { "id": 4, "name": "Японія", "capital": "Токіо", "continent": "Азія", "area_km2": 377975, "population": 123294513 },
+    { "id": 5, "name": "Чилі", "capital": "Сантьяго", "continent": "Південна Америка", "area_km2": 756102, "population": 19960889 }
+  ],
+  "peaks": [
+    { "id": 1, "name": "Говерла", "height_m": 2061, "countryId": 1, "range": "Українські Карпати", "first_ascent": 1840 },
+    { "id": 2, "name": "Еверест", "height_m": 8849, "countryId": 2, "range": "Гімалаї", "first_ascent": 1953 },
+    { "id": 3, "name": "Мона-Блан", "height_m": 4808, "countryId": 3, "range": "Альпи", "first_ascent": 1786 },
+    { "id": 4, "name": "Фудзі", "height_m": 3776, "countryId": 4, "range": "Хонсю", "first_ascent": null },
+    { "id": 5, "name": "Аконкагуа", "height_m": 6961, "countryId": 5, "range": "Анди", "first_ascent": 1897 },
+    { "id": 6, "name": "Петрос", "height_m": 2022, "countryId": 1, "range": "Українські Карпати", "first_ascent": null },
+    { "id": 7, "name": "Дхаулагірі I", "height_m": 8167, "countryId": 2, "range": "Гімалаї", "first_ascent": 1970 }
+  ]
+}
